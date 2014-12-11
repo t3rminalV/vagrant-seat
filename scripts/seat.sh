@@ -7,7 +7,7 @@ git clone https://github.com/eve-seat/seat.git -b dev /vagrant/seat-dev
 
 cd /vagrant/seat-dev/
 
-wget https://raw.githubusercontent.com/t3rminalVel0city/Vaprobash/master/.env.php
+wget https://raw.githubusercontent.com/t3rminalVel0city/vagrant-seat/master/.env.php
 
 composer install
 
